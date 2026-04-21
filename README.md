@@ -1,6 +1,6 @@
-# 🚗 Smart Parking System using 8051 (Proteus + Keil)
+#  Smart Parking System using 8051 (Proteus + Keil)
 
-🚀 This project is created to help students easily build a working 8051 mini project for MPMC / Microcontroller subjects.
+ This project is created to help students easily build a working 8051 mini project for MPMC / Microcontroller subjects.
 
 It is a **fully working Smart Parking System simulation** using Embedded C, Proteus, and Keil.
 
@@ -25,7 +25,7 @@ It is a **fully working Smart Parking System simulation** using Embedded C, Prot
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * 8051 Microcontroller (AT89C51)
 * Embedded C
@@ -43,7 +43,7 @@ It is a **fully working Smart Parking System simulation** using Embedded C, Prot
 
 ---
 
-## ⚡ How to Run (Step-by-Step)
+##  How to Run (Step-by-Step)
 
 1. Open Proteus project file
 2. Open code in Keil
@@ -53,7 +53,7 @@ It is a **fully working Smart Parking System simulation** using Embedded C, Prot
 
 ---
 
-## 🎮 How to Use
+##  How to Use
 
 * Press ENTRY button → slots decrease
 * Press EXIT button → slots increase
@@ -72,7 +72,7 @@ It is a **fully working Smart Parking System simulation** using Embedded C, Prot
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 
 * 8051 port interfacing
 * LCD programming
@@ -82,7 +82,7 @@ It is a **fully working Smart Parking System simulation** using Embedded C, Prot
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Replace buttons with IR sensors
 * Add IoT for real-time parking tracking
